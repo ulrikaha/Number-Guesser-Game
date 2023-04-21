@@ -1,0 +1,55 @@
+
+ body {
+  background-color: #261824;
+  justify-content: center;
+  
+ }
+   
+h1 {
+  color: #F2CAB3;
+  text-align: center;
+  font-size: 80px;
+  font-style: italic;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  text-shadow: 3px;
+  text-decoration-line: underline;
+  text-decoration-color: #BF8360;
+  
+}
+
+
+p {
+  color: #BF8360;
+  font-size: 20px;
+  text-align: center;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.form input[type="number"] {
+  width: 200px;
+  
+  
+}
+
+.lastResult {
+  color: #261824;
+  padding: 3px;
+}
+
+.form {
+  display: flex;
+  justify-content: center;
+  color: #F2CAB3;
+}
+
+#image {
+
+  display: flex;
+  justify-content: center;
+  width: fixed;
+  border: 1px solid #8C5642;
+  border-radius: 25px;
+  
+  
+
+}
